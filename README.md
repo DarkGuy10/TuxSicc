@@ -1,9 +1,9 @@
 # TuxSicc 
-Author		: @DarkGuy10
-Start Date  : 30.09.2020
-End Date    : -
-Language    : bash 
-Version     : 0.0 [Beta]
+Author		: @DarkGuy10 <br>
+Start Date  : 30.09.2020 <br>
+End Date    : - <br>
+Language    : bash  <br>
+Version     : 0.0 [Beta] <br>
 
 ## Description:
 A script to install some really sicc shell themes, icon packages, plymouth bootsplash, and grub themes. <br>
@@ -17,7 +17,6 @@ Grub Theme :
 ```
 
 ## How to use?
-
 Step 1. Open a terminal (hit `Ctrl + Alt + T`) <br>
 
 Step 2. Clone this repository and change directory:
@@ -33,5 +32,5 @@ Step 4. **WAIT FOR IT TO END. STOPPING IT IN BETWEEN IS UNWISE**
 
 And you're good to go! :D <br>
 
-### You can copy this script, but give we some credit :D
-</> with <3 at GitHub
+### You can copy this script, but give we some credit 7w7
+</> with ❤️ at GitHub
