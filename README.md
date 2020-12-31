@@ -32,5 +32,15 @@ Step 4. **WAIT FOR IT TO END. STOPPING IT IN BETWEEN IS UNWISE**
 
 And you're good to go! :D <br>
 
+## Requirements:
+You'll need to have the following packages installed. <br>
+In case they are missing, the script will try to install them <br>
+```
+gunzip
+```
+
+## Preview:
+Have a taste of what the end final thing looks like:
+
 ### You can copy this script, but give we some credit 7w7
 </> with ❤️ at GitHub
