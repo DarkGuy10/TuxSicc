@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=TuxSicc
+Description=A very sleek theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/TuxSicc
+ScriptFile=/usr/share/plymouth/themes/TuxSicc/tuxx-sicc.script

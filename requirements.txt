@@ -1,4 +1,3 @@
-gzip
 apt
 sudo
-git
+plymouth-themes
